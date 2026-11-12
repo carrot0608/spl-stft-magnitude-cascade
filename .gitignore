@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.pkl
+*.npz
+*.npy
+*.csv
+*.CSV
+*.pdf
+.env
+.env.*
+data/
+weights/
